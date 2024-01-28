@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "samplemod:silicon_ore",
+    "samplemod:silicon_block"
+  ]
+}

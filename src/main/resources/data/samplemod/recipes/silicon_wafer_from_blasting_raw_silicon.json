@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "silicon_wafer",
+  "ingredient": {
+      "item": "samplemod:raw_silicon"
+  },
+  "result": "samplemod:silicon_wafer"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "samplemod:silicon_block"
+    }
+  ],
+  "result": {
+    "item": "samplemod:silicon_wafer",
+    "count": 9
+  }
+}
