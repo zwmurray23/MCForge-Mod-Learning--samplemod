@@ -1,0 +1,8 @@
+{
+  "item.samplemod.silicon_wafer" : "Silicon Wafer",
+  "item.samplemod.raw_silicon" : "Raw Silicon",
+  "item.samplemod.pcb" : "Printed Circuit Board (PCB)",
+  "block.samplemod.silicon_block" : "Block of Silicon",
+  "block.samplemod.silicon_ore" : "Silicon Ore",
+  "itemGroup.sample_tab" : "Sample Mod Tab"
+}
